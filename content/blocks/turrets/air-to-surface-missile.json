@@ -33,6 +33,7 @@
     "pierce": false,
     "status": "none"
   },
-  "research": "duo",
+	"research": "core-shard",
+	"alwaysUnlocked": "true"
   "category": "turret",
 }
