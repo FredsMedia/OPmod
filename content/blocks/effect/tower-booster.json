@@ -16,6 +16,6 @@
     "power": 0,
     "items": {"items": [{"item": "lead", "amount": 0}]}
   },
-  "research": "hyperdrive",
+  "research": "duo",
   "category": "effect",
 }
