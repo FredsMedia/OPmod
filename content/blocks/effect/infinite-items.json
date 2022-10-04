@@ -7,8 +7,8 @@
   "requirements": [
     {"item": "copper", "amount": 0},
   ],
-  "itemCapacity": 999999999999, 
-  "unitCapModifier": 9999999999,
+  "itemCapacity": 999999999, 
+  "unitCapModifier": 9999999,
   "unitType": "flying-death",
   "category": "effect",
 	"research": "core-shard",
