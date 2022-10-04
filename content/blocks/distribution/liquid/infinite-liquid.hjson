@@ -1,0 +1,6 @@
+type: LiquidSource
+health: 2000
+category: liquid
+requirements: []
+research: duo
+buildTime: 0

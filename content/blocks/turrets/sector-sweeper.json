@@ -1,0 +1,117 @@
+{
+  "type": "LaserTurret",
+  "name": "Sector Sweeper",
+  "description": "What enemies?",
+  "size": 1,
+  "health": 100000,
+  "requirements": [
+    {"item": "copper", "amount": 0},
+  ],
+  "shootCone": 1,
+  "shots": 2,
+  "spread": 180,
+  "recoilAmount": 0,
+  "range": 40000,
+  "reloadTime": 1,
+  "shootDuration": 1,
+  "powerUse": 0,
+  "rotateSpeed": 90,
+  "shootSound": "explosionBig",
+  "loopSound": "pulse",
+  "shootLength": 0,
+  "chargeTime": 1, 
+  "chargeMaxDelay": 0,
+  "chargeEffects": 1,
+  "chargeSound": "none",
+  "chargeEffect": {
+    "type": "MultiEffect",
+    "effects": [
+      {
+        "type": "waveEffect",
+        "lifetime": 108000, 
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 0,
+        "sides": 40,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 108000, 
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 45,
+        "sides": 40,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 54000, 
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 0,
+        "sides": 40,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+      {
+        "type": "waveEffect",
+        "lifetime": 54000, 
+        "sizeFrom": 800,
+        "sizeTo": 0,
+        "rotation": 45,
+        "sides": 40,
+        "colorFrom": "f3e979",
+        "colorTo": "f58859",
+        "strokeFrom": 1,
+        "strokeTo": 4,
+      }
+    ]
+  },
+  "shootType": {
+    "type": "ContinuousLaserBulletType",
+    "length": 80000,
+    "drawSize": 0,
+    "width": 6,
+    "damage": 10000,
+    "incendChance": 0,
+    "hitEffect": {
+      "type": "MultiEffect",
+      "effects": [
+        {
+          "type": "waveEffect",
+          "sizeFrom": 0,
+          "sizeTo": 80,
+          "lifetime": 15,
+          "sides": 40,
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff",
+          "strokeFrom": 3,
+          "strokeTo": 0,
+        }
+        {
+          "type": "waveEffect",
+          "sizeFrom": 80,
+          "sizeTo": 0,
+          "lifetime": 15,
+          "rotation": 45,
+          "sides": 40,
+          "colorFrom": "ffffff",
+          "colorTo": "ffffff",
+          "strokeFrom": 3,
+          "strokeTo": 0,
+        }
+      ]
+    }
+  },
+  "category": "turret",
+  "research": "duo",
+}

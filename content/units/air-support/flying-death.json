@@ -1,0 +1,30 @@
+{
+  "type": "flying",
+  "name": "Flying Death",
+  "description": "Have fun with this!",
+  "flying": true,
+  "health": 1500,
+  "armor":10,
+  "hitSize": 8,
+  "speed": 7,
+  "weapons": [
+    {
+      "name": "mega machine gun",
+      "reload": 0,
+      "x": 0.5,
+      "y": 0.5,
+      "mirror": true,
+      "ejectEffect": "none",
+      "bullet": {
+        "type": "basicBulletType",
+        "width": 5,
+        "height": 8,
+        "lifetime": 8000,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "damage": 100
+      }
+    }
+  ],
+  "research": "air-factory",
+}
