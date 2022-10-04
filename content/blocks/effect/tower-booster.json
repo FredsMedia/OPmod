@@ -13,6 +13,7 @@
   "damageBoost": 500,
   "hasBoost": true,
   },
-  "research": "duo",
+	"research": "core-shard",
+	"alwaysUnlocked": "true",
   "category": "effect",
 }
