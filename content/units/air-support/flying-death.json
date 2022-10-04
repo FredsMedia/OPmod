@@ -3,6 +3,7 @@
   "name": "Flying Death",
   "description": "Have fun with this!",
   "flying": true,
+  "speed": 10,
   "controller": "MinerAI",
   "buildSpeed": 50,
   "mineTier": 10,
