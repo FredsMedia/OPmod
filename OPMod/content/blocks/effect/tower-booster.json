@@ -1,0 +1,21 @@
+{
+  "type": "OverdriveProjector",
+  "name": "Tower Booster",
+  "description": "Now everything can be OP.",
+  "size": 1,
+  "health": 100000,
+  "requirements": [
+    {"item": "copper", "amount": 1},
+  ],
+  "range": 50000,
+  "speedBoost": 800,
+  "rangeBoost": 500,
+  "damageBoost": 500,
+  "hasBoost": true,
+  "consumes": {
+    "power": 0,
+    "items": {"items": [{"item": "lead", "amount": 0}]}
+  },
+  "research": "hyperdrive",
+  "category": "effect",
+}

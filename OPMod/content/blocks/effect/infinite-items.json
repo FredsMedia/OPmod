@@ -1,0 +1,15 @@
+{
+  "type": "CoreBlock",
+  "name": "[white]Infinite Items [red]This is 10x10 so make sure you have enough space!",
+  "description": "A massive core with an excessive unit cap and storage space.",
+  "health": 12000,
+  "size": 10,
+  "requirements": [
+    {"item": "copper", "amount": 0},
+  ],
+  "itemCapacity": 999999999999, 
+  "unitCapModifier": 999999999999,
+  "unitType": "flying-death",
+  "category": "effect",
+  "research": "core-nucleus",
+}

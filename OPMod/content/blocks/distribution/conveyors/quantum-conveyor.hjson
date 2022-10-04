@@ -1,0 +1,14 @@
+type: Conveyor
+name: Quantum Conveyor
+health: 1000
+solid: false
+floating: true
+insulated: true
+description: "Now you see your items, now you don't!."
+requirements: [
+	copper/0
+]
+category: distribution
+speed: 50
+alwaysUnlocked: true
+research: zeroBreak
