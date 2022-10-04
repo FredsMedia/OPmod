@@ -11,4 +11,4 @@ requirements: [
 category: distribution
 speed: 50
 alwaysUnlocked: true
-research: duo
+research: core-shard
