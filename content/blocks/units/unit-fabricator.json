@@ -51,9 +51,6 @@
     {"unit": "gamma", "time": 0, "requirements": [{"item": "copper", "amount": 0}]},
     //region other
     {"unit": "flying-death", "time": 0, "requirements": [{"item": "copper", "amount": 0}]},
-    //region boss
-    {"unit": "asmodeus", "time": 0, "requirements": [{"item": "copper", "amount": 0}]},
-    {"unit": "orbiter", "time": 0, "requirements": [{"item": "copper", "amount": 0}]},
   ],
   "category": "units",
 }
