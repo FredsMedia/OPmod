@@ -26,5 +26,6 @@
     }
   },
 	"category": "production",
-	"research": "blast-drill"
+	"research": "core-shard",
+	"alwaysUnlocked": "true"
 }
