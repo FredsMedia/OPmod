@@ -53,4 +53,6 @@
     {"unit": "flying-death", "time": 0, "requirements": [{"item": "copper", "amount": 0}]},
   ],
   "category": "units",
+  "research": "core-shard",
+	"alwaysUnlocked": "true"
 }
