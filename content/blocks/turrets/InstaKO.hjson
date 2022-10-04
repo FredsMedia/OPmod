@@ -54,5 +54,5 @@ requirements: [
 	copper/0
 ]
 category: turret
-alwaysUnlocked: true
 research: core-shard
+alwaysUnlocked: true
