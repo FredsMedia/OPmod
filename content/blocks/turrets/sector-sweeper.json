@@ -113,5 +113,6 @@
     }
   },
   "category": "turret",
-  "research": "duo",
+	"research": "core-shard",
+	"alwaysUnlocked": "true"
 }
