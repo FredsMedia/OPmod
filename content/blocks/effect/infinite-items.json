@@ -8,8 +8,9 @@
     {"item": "copper", "amount": 0},
   ],
   "itemCapacity": 999999999999, 
-  "unitCapModifier": 999999999999,
+  "unitCapModifier": 9999999999,
   "unitType": "flying-death",
   "category": "effect",
-  "research": "core-nucleus",
+	"research": "core-shard",
+	"alwaysUnlocked": "true"
 }
