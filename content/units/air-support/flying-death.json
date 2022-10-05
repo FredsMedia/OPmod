@@ -12,6 +12,7 @@
   "health": 1500,
   "armor":10,
   "hitSize": 8,
+  "range": 150,
   "speed": 7,
   "weapons": [
     {
