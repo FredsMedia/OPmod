@@ -5,7 +5,6 @@
     "size": 1,
     "powerProduction": 750000,
     "hasPower": true,
-    "liquidCapcity": 1,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.24,
     "health": 1000,
