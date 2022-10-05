@@ -5,9 +5,7 @@
 	"size": 1,
 	"tier": 8,
 	"drillTime": 0,
-	"requirements": [
-		{ "item": "copper", "amount": 0},
- ],
+	"requirements": [],
   "drawRim": true,
   "hasPower": true,
   "rotateSpeed": 10,
