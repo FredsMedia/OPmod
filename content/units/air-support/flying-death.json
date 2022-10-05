@@ -9,7 +9,7 @@
   "buildPower": "100",
   "buildSpeed": 50,
   "mineTier": 10,
-  "mineSpeed": 950,
+  "mineSpeed": 9999,
   "itemCapacity": 10000, 
   "health": 1500,
   "armor":10,
@@ -19,7 +19,7 @@
   "weapons": [
     {
       "name": "mega machine gun",
-      "reload": 0.1,
+      "reload": 1,
       "x": 0.5,
       "y": 0.5,
       "mirror": true,
@@ -28,10 +28,10 @@
         "type": "basicBulletType",
         "width": 5,
         "height": 8,
-        "lifetime": 8000,
+        "lifetime": 100,
         "shootEffect": "shootSmall",
         "smokeEffect": "shootSmallSmoke",
-        "damage": 1000
+        "damage": 100
       }
     }
   ],
