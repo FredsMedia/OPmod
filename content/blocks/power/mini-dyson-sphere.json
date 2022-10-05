@@ -3,7 +3,7 @@
     "name": "Mini Dyson Sphere",
     "description": "The Power Of The Sun In Your Hands...",
     "size": 1,
-    "powerProduction": 750000,
+    "powerProduction": 7500,
     "hasPower": true,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.24,
