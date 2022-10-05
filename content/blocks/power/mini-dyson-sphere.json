@@ -1,18 +1,17 @@
-/*{
+{
     "type": "nuclearReactor",
     "name": "Mini Dyson Sphere",
     "description": "The Power Of The Sun In Your Hands...",
     "size": 1,
-    "powerProduction": 75000000000,
+    "powerProduction": 750000,
     "hasPower": true,
     "liquidCapcity": 1,
     "ambientSound": "hum",
     "ambientSoundVolume": 0.24,
     "health": 1000,
     "itemDuration": 400,
-    "heat": 0,
     "requirements": []
 	"research": "core-shard",
 	"alwaysUnlocked": "true"
     "category": "power",
-}*/
+}
