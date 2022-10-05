@@ -30,7 +30,41 @@
         "type": "basicBulletType",
         "width": 5,
         "height": 8,
-	"bulletSpeed": 15
+	"projectileSpeed": 15
+        "lifetime": 9999,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "damage": 1000
+      }
+	        {
+      "name": "mega machine gun",
+      "reload": 1,
+      "x": 0.5,
+      "y": 0.5,
+      "mirror": true,
+      "ejectEffect": "none",
+      "bullet": {
+        "type": "basicBulletType",
+        "width": 5,
+        "height": 8,
+	"projectileSpeed": 15
+        "lifetime": 9999,
+        "shootEffect": "shootSmall",
+        "smokeEffect": "shootSmallSmoke",
+        "damage": 1000
+      }
+	      {
+      "name": "mega machine gun",
+      "reload": 1,
+      "x": 0.5,
+      "y": 0.5,
+      "mirror": true,
+      "ejectEffect": "none",
+      "bullet": {
+        "type": "basicBulletType",
+        "width": 5,
+        "height": 8,
+	"projectileSpeed": 15
         "lifetime": 9999,
         "shootEffect": "shootSmall",
         "smokeEffect": "shootSmallSmoke",
