@@ -4,9 +4,7 @@
   "description": "A massive core with an excessive unit cap and storage space.",
   "health": 12000,
   "size": 10,
-  "requirements": [
-    {"item": "copper", "amount": 0},
-  ],
+  "requirements": [],
   "itemCapacity": 999999999, 
   "unitCapModifier": 9999999,
   "unitType": "flying-death",
