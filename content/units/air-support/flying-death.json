@@ -5,6 +5,8 @@
   "flying": true,
   "speed": 10,
   "controller": "MinerAI",
+  "canHeal": true,
+  "buildPower": "100",
   "buildSpeed": 50,
   "mineTier": 10,
   "mineSpeed": 950,
