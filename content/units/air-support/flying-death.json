@@ -2,6 +2,7 @@
   "type": "flying",
   "name": "Flying Death",
   "description": "Have fun with this!",
+  "commandLimit": 25,
   "flying": true,
   "speed": 3,
   "controller": "MinerAI",
@@ -30,7 +31,7 @@
         "width": 5,
         "height": 8,
 	"bulletSpeed": 15
-        "lifetime": 100,
+        "lifetime": 9999,
         "shootEffect": "shootSmall",
         "smokeEffect": "shootSmallSmoke",
         "damage": 1000
