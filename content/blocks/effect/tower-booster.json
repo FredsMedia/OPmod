@@ -4,9 +4,7 @@
   "description": "Now everything can be OP.",
   "size": 1,
   "health": 1000,
-  "requirements": [
-    {"item": "copper", "amount": 0},
-  ],
+  "requirements": [],
   "range": 500,
   "speedBoost": 800,
   "rangeBoost": 500,
