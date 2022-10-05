@@ -5,9 +5,7 @@ solid: false
 floating: true
 insulated: true
 description: "Now you see your items, now you don't!."
-requirements: [
-	copper/0
-]
+requirements: [ ]
 category: distribution
 speed: 50
 alwaysUnlocked: true
