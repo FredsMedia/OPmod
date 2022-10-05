@@ -4,7 +4,7 @@
   "description": "Have fun with this!",
   "commandLimit": 25,
   "flying": true,
-  "speed": 3,
+  "speed": 30,
   "controller": "MinerAI",
   "canHeal": true,
   "buildPower": "100",
