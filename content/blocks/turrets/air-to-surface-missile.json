@@ -4,9 +4,7 @@
   "description": "Just be glad you aren't the enemy.",
   "size": 1,
   "health": 6000,
-  "requirements": [
-    {"item": "copper", "amount": 0},
-  ],
+  "requirements": [],
   "targetAir": true,
   "targetGround": true,
   "spread": 0,
@@ -30,7 +28,7 @@
     "shootEffect": "none",
     "smokeEffect": "none",
     "hitSound": "boom",
-    "pierce": false,
+    "pierce": true,
     "status": "none"
   },
 	"research": "core-shard",
