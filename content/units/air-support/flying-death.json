@@ -3,7 +3,7 @@
   "name": "Flying Death",
   "description": "Have fun with this!",
   "flying": true,
-  "speed": 10,
+  "speed": 3,
   "controller": "MinerAI",
   "canHeal": true,
   "buildPower": "100",
@@ -17,7 +17,6 @@
   "armor":10,
   "hitSize": 8,
   "range": 150,
-  "speed": 700,
   "weapons": [
     {
       "name": "mega machine gun",
