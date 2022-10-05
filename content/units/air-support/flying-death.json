@@ -13,11 +13,11 @@
   "itemCapacity": 10000, 
   "health": 1500,
   "drag": 1,	
-  "acceleration": 50,
+  "acceleration": 250,
   "armor":10,
   "hitSize": 8,
   "range": 150,
-  "speed": 7,
+  "speed": 700,
   "weapons": [
     {
       "name": "mega machine gun",
@@ -30,10 +30,11 @@
         "type": "basicBulletType",
         "width": 5,
         "height": 8,
+	"bulletSpeed": 15
         "lifetime": 100,
         "shootEffect": "shootSmall",
         "smokeEffect": "shootSmallSmoke",
-        "damage": 100
+        "damage": 1000
       }
     }
   ],
