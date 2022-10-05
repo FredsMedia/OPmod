@@ -50,9 +50,7 @@ ammoTypes: {
 		ammoMultiplier: 50
 	}
 }
-requirements: [
-	copper/0
-]
+requirements: []
 category: turret
 research: core-shard
 alwaysUnlocked: true
