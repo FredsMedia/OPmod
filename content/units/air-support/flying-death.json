@@ -12,6 +12,8 @@
   "mineSpeed": 9999,
   "itemCapacity": 10000, 
   "health": 1500,
+  "drag": 1,	
+  "acceleration": 50,
   "armor":10,
   "hitSize": 8,
   "range": 150,
