@@ -1,12 +1,10 @@
 {
-    "type": "nuclearReactor",
+    "type": "Generator",
     "name": "Mini Dyson Sphere",
     "description": "The Power Of The Sun In Your Hands...",
     "size": 1,
-    "powerProduction": 7500,
+    "powerProduction": 750000,
     "hasPower": true,
-    "ambientSound": "hum",
-    "ambientSoundVolume": 0.24,
     "health": 1000,
     "itemDuration": 400,
     "requirements": []
