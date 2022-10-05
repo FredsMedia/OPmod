@@ -36,7 +36,8 @@
         "smokeEffect": "shootSmallSmoke",
         "damage": 1000
       }
-	       {
+      }
+      {
       "name": "mega machine gun",
       "reload": 1,
       "x": 0.5,
@@ -53,7 +54,8 @@
         "smokeEffect": "shootSmallSmoke",
         "damage": 1000
       }
-	      {
+      }
+      {
       "name": "mega machine gun",
       "reload": 1,
       "x": 0.5,
