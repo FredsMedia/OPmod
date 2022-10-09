@@ -1,5 +1,5 @@
 {
-  "type": "Turret",
+  "type": "powerTurret",
   "name": "Air To Surface Missile",
   "description": "Just be glad you aren't the enemy.",
   "size": 1,
