@@ -8,18 +8,17 @@
   "targetAir": true,
   "targetGround": true,
   "spread": 0,
-  "shots": 10,
+  "shots": 100,
   "recoilAmount": 0,
   "reloadTime": 1,
-  "range": 400,
+  "range": 40000,
   "shootCone": 1,
   "inaccuracy": 0,
   "rotateSpeed": 100,
-  "powerUse": 50,
   "shootSound": "none",
   "shootType": {
     "type": "SapBulletType",
-    "sapStrength": 0,
+    "sapStrength": 100,
     "length": 400,
     "lifetime": 100,
     "damage": 5000,
@@ -31,7 +30,7 @@
     "pierce": true,
     "status": "none"
   },
-	"research": "core-shard",
-	"alwaysUnlocked": "true"
+  "research": "core-shard",
+  "alwaysUnlocked": "true"
   "category": "turret",
 }
