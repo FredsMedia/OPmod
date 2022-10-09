@@ -8,20 +8,12 @@
 	"requirements": [],
   "drawRim": true,
   "hasPower": true,
-  "rotateSpeed": 1,
-  "warmupSpeed": 3,
-  "liquidBoostIntensity": 25,
+  "rotateSpeed": 1000,
+  "warmupSpeed": 0,
   "updateEffect": "pulverizeRed",
   "updateEffectChance": 0.03,
   "drillEffect": "mineHuge",
-  "consumes": {
-    "liquid": {
-      "liquid": "water", 
-      "amount": 0.1, 
-      "booster": true, 
-      "optional": true
-    }
-  },
+  "consumes": { },
 	"category": "production",
 	"research": "core-shard",
 	"alwaysUnlocked": "true"
