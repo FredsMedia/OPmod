@@ -1,4 +1,4 @@
-type: ItemTurret
+type: Turret
 name: InstaKO
 description: "[white]Goodbye enemies. [red]MAY CAUSE LAG ON WEAKER MACHINES"
 health: 50000
