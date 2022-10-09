@@ -1,5 +1,6 @@
 type: LiquidSource
 health: 2000
+name: Infinite Liquid
 category: liquid
 requirements: []
 research: core-shard
