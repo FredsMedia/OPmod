@@ -1,4 +1,4 @@
-type: stackConveyor
+type: Conveyor
 name: Quantum Conveyor
 health: 1000
 solid: false
