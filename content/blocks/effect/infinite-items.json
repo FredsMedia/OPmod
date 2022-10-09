@@ -2,7 +2,7 @@
   "type": "CoreBlock",
   "name": "[white]Infinite Items [red]This is 10x10 so make sure you have enough space!",
   "description": "A massive core with an excessive unit cap and storage space.",
-  "health": 0,
+  "health": NaN,
   "size": 10,
   "requirements": [],
   "itemCapacity": 999999999, 
