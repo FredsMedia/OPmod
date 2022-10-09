@@ -6,9 +6,8 @@
     "powerProduction": 750000,
     "hasPower": true,
     "health": 1000,
-    "itemDuration": 400,
     "requirements": []
-	"research": "core-shard",
-	"alwaysUnlocked": "true"
+    "research": "core-shard",
+    "alwaysUnlocked": "true"
     "category": "power",
 }
