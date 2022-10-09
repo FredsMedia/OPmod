@@ -7,6 +7,6 @@ insulated: true
 description: "Now you see your items, now you don't!."
 requirements: []
 category: distribution
-speed: 0
+speed: 9999999999999999999999999999999999
 alwaysUnlocked: true
 research: core-shard
