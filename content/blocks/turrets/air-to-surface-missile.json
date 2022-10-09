@@ -19,8 +19,8 @@
   "shootType": {
     "type": "SapBulletType",
     "sapStrength": 100,
-    "length": 400,
-    "lifetime": 100,
+    "length": 40000,
+    "lifetime": 10000,
     "damage": 5000,
     "width": 0,
     "hitEffect": "instBomb",
