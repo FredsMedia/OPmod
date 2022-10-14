@@ -13,6 +13,8 @@
   "updateEffect": "pulverizeRed",
   "updateEffectChance": 0.03,
   "drillEffect": "mineHuge",
+  "liquidBoost": 9999
+  "liquidCapacity": 0
   "category": "production",
   "research": "core-shard",
   "alwaysUnlocked": "true"
