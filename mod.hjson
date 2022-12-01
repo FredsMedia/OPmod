@@ -3,6 +3,6 @@ displayName: "OPmod"
 author: FredsMedia
 description: "A mod for Mindustry which makes gameplay way easier."
 version: "1.0"
-minGameVersion: "104"
+minGameVersion: "140.4"
 dependencies: [ ]
 hidden: false
