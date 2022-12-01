@@ -1,6 +1,6 @@
 type: ItemSource
 name: Infinity Item
-description: "I am [blue]444[]"
+description: "Credit to SMIPE444 for the item"
 health: 444
 category: distribution
 buildVisibility: shown
