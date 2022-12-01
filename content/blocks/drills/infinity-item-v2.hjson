@@ -1,6 +1,6 @@
 type: Separator
 name: Infinity Items V2
-description: "Get all item from it and I am [cyan]444[]"
+description: "Credit to SMIPE444 for the item"
 health: 444
 itemCapacity: 444444444
 liquidCapacity: 0
@@ -19,21 +19,21 @@ requirements: [
 consumes: {
 }
 results: [
-    copper/3
-    lead/3
-    graphite/3
-    metaglass/3
-    coal/3
-    sand/3
-    titanium/3
-    silicon/3
-    scrap/3
-    thorium/3
-    plastanium/3
-    phase-fabric/3
-    surge-alloy/3
-    spore-pod/3
-    pyratite/3
-    blast-compound/3
+    copper/9
+    lead/9
+    graphite/9
+    metaglass/9
+    coal/9
+    sand/9
+    titanium/9
+    silicon/9
+    scrap/9
+    thorium/9
+    plastanium/9
+    phase-fabric/9
+    surge-alloy/9
+    spore-pod/9
+    pyratite/9
+    blast-compound/9
 ]
 alwaysUnlocked: true
