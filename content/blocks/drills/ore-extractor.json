@@ -4,7 +4,7 @@
   "description": "It's your items now, what are you going to do with them?",
   "size": 1,
   "tier": 100,
-  "drillTime": 0.00001,
+  "drillTime": 0,
   "requirements": [],
   "drawRim": true,
   "hasPower": true,
