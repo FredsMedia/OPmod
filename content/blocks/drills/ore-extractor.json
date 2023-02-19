@@ -4,7 +4,7 @@
   "description": "It's your items now, what are you going to do with them?",
   "size": 1,
   "tier": 100,
-  "drillTime": 0,
+  "drillTime": 9999999999999,
   "requirements": [],
   "drawRim": true,
   "hasPower": true,
@@ -13,7 +13,7 @@
   "updateEffect": "pulverizeRed",
   "updateEffectChance": 0.03,
   "drillEffect": "mineHuge",
-  "liquidBoost": 9999
+  "liquidBoost": 9
   "liquidCapacity": 0
   "category": "production",
   "research": "core-shard",
